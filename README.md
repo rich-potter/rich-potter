@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @rich-potter
+- 👋 Hi, I’m @rich-potter and this is my Work repository
 - 👀 I’m interested in snowboarding, festivals, movies and protecting the environment
 - 🌱 I’m currently learning ... OOP / MVC
 - 💞️ I’m looking to collaborate on ...
